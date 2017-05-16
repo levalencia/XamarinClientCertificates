@@ -1,0 +1,15 @@
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/TestClientCertificates.iOS.pdb
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/TestClientCertificates.iOS.exe
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/TestClientCertificates.iOS.exe
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/TestClientCertificates.iOS.pdb
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/TestClientCertificates.dll
+/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/TestClientCertificates.pdb

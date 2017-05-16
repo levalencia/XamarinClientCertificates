@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AD01E57F-8BFE-40ED-8E55-9DEC78E0B181}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestClientCertificates Status">
+    <Files>
+      <File FileName="TestClientCertificates/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="TestClientCertificates/App.xaml" Line="5" Column="26" />
+      <File FileName="TestClientCertificates/MyPage.cs" Line="26" Column="46" />
+      <File FileName="TestClientCertificates Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestClientCertificates.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.56AC2887-324F-431A-9D39-B5009855E908" />
+  <MultiItemStartupConfigurations />
+</Properties>
