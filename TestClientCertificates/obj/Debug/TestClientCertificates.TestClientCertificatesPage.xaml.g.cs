@@ -11,7 +11,7 @@
 namespace TestClientCertificates {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/TestClientCertificates/TestClientCertificatesPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/luis.valencia/XamarinClientCertificates/TestClientCertificates/TestClientCertificatesPage.xaml")]
     public partial class TestClientCertificatesPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

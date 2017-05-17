@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj/Debug/MonoAndroid/__library_projects__/Square.OkHttp/library_project_imports/okhttp.jar</Jar>
+    <Jar>obj/Debug/MonoAndroid/__library_projects__/Square.OkIO/library_project_imports/okio.jar</Jar>
+  </Jars>
+</Paths>

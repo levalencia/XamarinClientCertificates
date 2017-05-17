@@ -9,6 +9,7 @@ namespace TestClientCertificates
 			InitializeComponent();
 
 			MainPage = new TestClientCertificatesPage();
+			App.Current.MainPage = new MyPage();
 		}
 
 		protected override void OnStart()

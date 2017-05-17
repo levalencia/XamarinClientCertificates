@@ -1,0 +1,4 @@
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/obj/Debug/MonoAndroid/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/obj/Debug/MonoAndroid/ModernHttpClient.obj.Debug.MonoAndroid.__AndroidLibraryProjects__.zip
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/bin/Debug/MonoAndroid/Square.OkHttp.dll
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/bin/Debug/MonoAndroid/Square.OkIO.dll

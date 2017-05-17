@@ -1,9 +1,9 @@
 # Version: 10.10.0.33 (d15-2: 3e5ac5ff)
 # [first argument, ignore] # --cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.33/lib/mtouch/mtouch.exe \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
+	/Users/luis.valencia/XamarinClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
 	--sim \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/TestClientCertificates.iOS.app \
+	/Users/luis.valencia/XamarinClientCertificates/iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/TestClientCertificates.iOS.app \
 	--executable \
 	TestClientCertificates.iOS \
 	--fastdev \
@@ -18,7 +18,7 @@
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
 	--symbollist \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
+	/Users/luis.valencia/XamarinClientCertificates/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -29,15 +29,17 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/TestClientCertificates/bin/Debug/TestClientCertificates.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/modernhttpclient.2.4.2/lib/Xamarin.iOS10/ModernHttpClient.dll \
+	-r \
+	/Users/luis.valencia/XamarinClientCertificates/TestClientCertificates/bin/Debug/TestClientCertificates.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -307,15 +309,17 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/netstandard.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/Xamarin.Forms.2.3.4.247/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/TestClientCertificates/bin/Debug/TestClientCertificates.dll \
+	/Users/luis.valencia/XamarinClientCertificates/packages/modernhttpclient.2.4.2/lib/Xamarin.iOS10/ModernHttpClient.dll \
+	-r \
+	/Users/luis.valencia/XamarinClientCertificates/TestClientCertificates/bin/Debug/TestClientCertificates.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/luis.valencia/Documents/XamarinClientCertificates/TestClientCertificates/iOS/bin/iPhoneSimulator/Debug/TestClientCertificates.iOS.exe \
+	/Users/luis.valencia/XamarinClientCertificates/iOS/bin/iPhoneSimulator/Debug/TestClientCertificates.iOS.exe \

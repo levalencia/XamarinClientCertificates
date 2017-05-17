@@ -1,0 +1,6 @@
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/obj/Debug/Xamarin.iOS10/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/obj/Debug/Xamarin.iOS10/optimized/
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/bin/Debug/Xamarin.iOS10/ModernHttpClient.pdb
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/bin/Debug/Xamarin.iOS10/ModernHttpClient.dll
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/obj/Debug/Xamarin.iOS10/ModernHttpClient.dll
+/Users/luis.valencia/XamarinClientCertificates/ModernHttpClient/obj/Debug/Xamarin.iOS10/ModernHttpClient.pdb
